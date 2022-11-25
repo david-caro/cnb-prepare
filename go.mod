@@ -1,4 +1,4 @@
-module github.com/jromero/cnb-prepare
+module github.com/david-caro/cnb-prepare
 
 go 1.18
 

@@ -6,8 +6,8 @@ import (
 	"github.com/sclevine/spec"
 	"github.com/sclevine/spec/report"
 
-	"github.com/jromero/cnb-prepare/pkg/project/types"
-	"github.com/jromero/cnb-prepare/pkg/testhelpers"
+	"github.com/david-caro/cnb-prepare/pkg/project/types"
+	"github.com/david-caro/cnb-prepare/pkg/testhelpers"
 )
 
 func TestAPIVersion(t *testing.T) {

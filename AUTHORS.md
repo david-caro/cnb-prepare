@@ -2,8 +2,8 @@
 
 ## Development Lead
 
-- Javier Romero [jromero](https://github.com/jromero)
+- David Caro [david-caro](https://github.com/david-caro)
 
 ## Contributors
 
-None yet. Why not be the first?
+- Javier Romero [jromero](https://github.com/jromero)

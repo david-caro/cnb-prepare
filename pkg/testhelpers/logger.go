@@ -3,7 +3,7 @@ package testhelpers
 import (
 	"testing"
 
-	"github.com/jromero/cnb-prepare/pkg/preparer"
+	"github.com/david-caro/cnb-prepare/pkg/preparer"
 )
 
 func NewLogger(t *testing.T) preparer.Logger {

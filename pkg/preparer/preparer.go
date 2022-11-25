@@ -7,9 +7,9 @@ import (
 	"path/filepath"
 
 	"github.com/BurntSushi/toml"
-	"github.com/jromero/cnb-prepare/pkg/order"
-	"github.com/jromero/cnb-prepare/pkg/project"
-	"github.com/jromero/cnb-prepare/pkg/project/types"
+	"github.com/dcaro/cnb-prepare/pkg/order"
+	"github.com/dcaro/cnb-prepare/pkg/project"
+	"github.com/dcaro/cnb-prepare/pkg/project/types"
 	"github.com/pkg/errors"
 )
 

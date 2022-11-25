@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jromero/cnb-prepare/pkg/project/types"
+	"github.com/david-caro/cnb-prepare/pkg/project/types"
 	"github.com/sclevine/spec"
 	"github.com/sclevine/spec/report"
 )
@@ -118,7 +118,7 @@ value = "-Xmx300m"
 [project]
 name = "gallant"
 version = "1.0.2"
-source-url = "https://github.com/jromero/cnb-prepare"
+source-url = "https://github.com/david-caro/cnb-prepare"
 
 [[project.licenses]]
 type = "MIT"
@@ -170,7 +170,7 @@ pipeline = "Lucerne"
 					expected, projectDescriptor.Project.Version)
 			}
 
-			expected = "https://github.com/jromero/cnb-prepare"
+			expected = "https://github.com/david-caro/cnb-prepare"
 			if projectDescriptor.Project.SourceURL != expected {
 				t.Fatalf("Expected\n-----\n%#v\n-----\nbut got\n-----\n%#v\n",
 					expected, projectDescriptor.Project.SourceURL)

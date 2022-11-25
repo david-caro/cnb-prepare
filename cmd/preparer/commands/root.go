@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jromero/cnb-prepare/pkg/preparer"
+	"github.com/david-caro/cnb-prepare/pkg/preparer"
 	"github.com/spf13/cobra"
 )
 

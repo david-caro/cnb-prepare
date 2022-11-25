@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/jromero/cnb-prepare/pkg/preparer"
-	"github.com/jromero/cnb-prepare/pkg/testhelpers"
+	"github.com/david-caro/cnb-prepare/pkg/preparer"
+	"github.com/david-caro/cnb-prepare/pkg/testhelpers"
 	cp "github.com/otiai10/copy"
 	. "github.com/otiai10/mint"
 )

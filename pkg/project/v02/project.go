@@ -3,7 +3,7 @@ package v02
 import (
 	"github.com/BurntSushi/toml"
 
-	"github.com/jromero/cnb-prepare/pkg/project/types"
+	"github.com/david-caro/cnb-prepare/pkg/project/types"
 )
 
 type Buildpacks struct {

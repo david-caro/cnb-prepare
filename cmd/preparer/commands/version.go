@@ -3,7 +3,7 @@ package commands
 import (
 	"fmt"
 
-	"github.com/jromero/cnb-prepare/pkg/version"
+	"github.com/david-caro/cnb-prepare/pkg/version"
 	"github.com/spf13/cobra"
 )
 

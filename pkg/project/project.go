@@ -8,9 +8,9 @@ import (
 	"github.com/BurntSushi/toml"
 	"github.com/pkg/errors"
 
-	"github.com/jromero/cnb-prepare/pkg/project/types"
-	v01 "github.com/jromero/cnb-prepare/pkg/project/v01"
-	v02 "github.com/jromero/cnb-prepare/pkg/project/v02"
+	"github.com/david-caro/cnb-prepare/pkg/project/types"
+	v01 "github.com/david-caro/cnb-prepare/pkg/project/v01"
+	v02 "github.com/david-caro/cnb-prepare/pkg/project/v02"
 )
 
 type Project struct {

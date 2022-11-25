@@ -8,7 +8,7 @@ You can contribute in many ways:
 
 ### Report Bugs
 
-Report bugs at https://github.com/jromero/preparer/issues.
+Report bugs at https://github.com/david-caro/cnb-prepare/issues.
 
 If you are reporting a bug, please include:
 
@@ -34,7 +34,7 @@ articles, and such.
 
 ### Submit Feedback
 
-The best way to send feedback is to file an issue at https://github.com/jromero/preparer/issues.
+The best way to send feedback is to file an issue at https://github.com/david-caro/cnb-prepare/issues.
 
 If you are proposing a feature:
 
@@ -50,7 +50,7 @@ Ready to contribute? Here's how to set up `preparer` for local development.
 1. Fork the `preparer` repo on GitHub.
 2. Clone your fork locally::
 ```bash
-    $ git clone git@github.com:your_name_here/preparer.git
+    $ git clone git@github.com:your_name_here/cnb-prepare.git
 ```
 3. Create a branch for local development::
 ```bash
